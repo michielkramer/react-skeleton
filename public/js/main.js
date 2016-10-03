@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/michiel/Repositories/react-skeleton/src/main.jsx: Unexpected token (2:13) while parsing file: /Users/michiel/Repositories/react-skeleton/src/main.jsx");
